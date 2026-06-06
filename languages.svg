@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e34c26; 
-  width: 55.583%;
+  width: 55.582%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 8.353%;
+  width: 8.354%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 7.784%;
@@ -152,16 +152,16 @@ div.ellipsis {
   width: 2.311%;
 " class="progress-item"></span><span style="
   background-color: #701516; 
-  width: 1.916%;
+  width: 1.913%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 1.841%;
+  width: 1.843%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
   width: 1.518%;
 " class="progress-item"></span><span style="
   background-color: #c22d40; 
-  width: 1.212%;
+  width: 1.213%;
 " class="progress-item"></span><span style="
   background-color: #198CE7; 
   width: 1.052%;
@@ -170,7 +170,7 @@ div.ellipsis {
   width: 0.866%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 0.748%;
+  width: 0.749%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
   width: 0.631%;
@@ -824,7 +824,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Ruby</span>
-  <span class="percent">1.92%</span>
+  <span class="percent">1.91%</span>
 </li>
 <li style="animation-delay: 1200ms;">
   <svg 
