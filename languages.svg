@@ -134,16 +134,16 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e34c26; 
-  width: 55.582%;
+  width: 55.580%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 8.354%;
+  width: 8.356%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 7.784%;
 " class="progress-item"></span><span style="
   background-color: #DA5B0B; 
-  width: 5.710%;
+  width: 5.709%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
   width: 5.613%;
@@ -373,10 +373,10 @@ div.ellipsis {
   background-color: #596706; 
   width: 0.005%;
 " class="progress-item"></span><span style="
-  background-color: #4298b8; 
+  background-color: #438eff; 
   width: 0.004%;
 " class="progress-item"></span><span style="
-  background-color: #438eff; 
+  background-color: #4298b8; 
   width: 0.004%;
 " class="progress-item"></span><span style="
   background-color: #4F3A4F; 
@@ -744,7 +744,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">8.35%</span>
+  <span class="percent">8.36%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -1998,22 +1998,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #4298b8;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Groovy</span>
-  <span class="percent">0.00%</span>
-</li>
-<li style="animation-delay: 12300ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #438eff;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -2024,6 +2008,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Objective-C</span>
+  <span class="percent">0.00%</span>
+</li>
+<li style="animation-delay: 12300ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #4298b8;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Groovy</span>
   <span class="percent">0.00%</span>
 </li>
 <li style="animation-delay: 12450ms;">
