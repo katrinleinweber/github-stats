@@ -134,7 +134,7 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e34c26; 
-  width: 55.532%;
+  width: 55.530%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
   width: 8.387%;
@@ -143,7 +143,7 @@ div.ellipsis {
   width: 7.782%;
 " class="progress-item"></span><span style="
   background-color: #DA5B0B; 
-  width: 5.705%;
+  width: 5.704%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
   width: 5.608%;
@@ -158,7 +158,7 @@ div.ellipsis {
   width: 1.852%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 1.517%;
+  width: 1.518%;
 " class="progress-item"></span><span style="
   background-color: #c22d40; 
   width: 1.217%;
@@ -194,7 +194,7 @@ div.ellipsis {
   width: 0.226%;
 " class="progress-item"></span><span style="
   background-color: #B83998; 
-  width: 0.222%;
+  width: 0.221%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
   width: 0.205%;
@@ -310,11 +310,11 @@ div.ellipsis {
   background-color: #000; 
   width: 0.014%;
 " class="progress-item"></span><span style="
+  background-color: #384d54; 
+  width: 0.014%;
+" class="progress-item"></span><span style="
   background-color: #6E4C13; 
   width: 0.013%;
-" class="progress-item"></span><span style="
-  background-color: #384d54; 
-  width: 0.012%;
 " class="progress-item"></span><span style="
   background-color: #B5314C; 
   width: 0.012%;
@@ -1662,22 +1662,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #6E4C13;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Assembly</span>
-  <span class="percent">0.01%</span>
-</li>
-<li style="animation-delay: 9150ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #384d54;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -1688,6 +1672,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Dockerfile</span>
+  <span class="percent">0.01%</span>
+</li>
+<li style="animation-delay: 9150ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #6E4C13;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Assembly</span>
   <span class="percent">0.01%</span>
 </li>
 <li style="animation-delay: 9300ms;">
