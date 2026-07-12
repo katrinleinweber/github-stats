@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e34c26; 
-  width: 55.393%;
+  width: 55.390%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 8.423%;
+  width: 8.425%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 7.793%;
@@ -161,7 +161,7 @@ div.ellipsis {
   width: 1.515%;
 " class="progress-item"></span><span style="
   background-color: #c22d40; 
-  width: 1.242%;
+  width: 1.243%;
 " class="progress-item"></span><span style="
   background-color: #198CE7; 
   width: 1.053%;
@@ -451,10 +451,10 @@ div.ellipsis {
   background-color: #1e4aec; 
   width: 0.002%;
 " class="progress-item"></span><span style="
-  background-color: #101F1F; 
+  background-color: #a91e50; 
   width: 0.001%;
 " class="progress-item"></span><span style="
-  background-color: #a91e50; 
+  background-color: #101F1F; 
   width: 0.001%;
 " class="progress-item"></span><span style="
   background-color: #244776; 
@@ -747,7 +747,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">8.42%</span>
+  <span class="percent">8.43%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -1131,7 +1131,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Kotlin</span>
-  <span class="percent">0.11%</span>
+  <span class="percent">0.12%</span>
 </li>
 <li style="animation-delay: 4050ms;">
   <svg 
@@ -2417,22 +2417,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #101F1F;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">AppleScript</span>
-  <span class="percent">0.00%</span>
-</li>
-<li style="animation-delay: 16200ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #a91e50;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -2443,6 +2427,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">EJS</span>
+  <span class="percent">0.00%</span>
+</li>
+<li style="animation-delay: 16200ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #101F1F;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">AppleScript</span>
   <span class="percent">0.00%</span>
 </li>
 <li style="animation-delay: 16350ms;">
